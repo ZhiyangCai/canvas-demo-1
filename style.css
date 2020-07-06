@@ -1,9 +1,10 @@
 #canvas {
-  border: 1px solid red;
+  border: 1px solid blue;
   display: block;
 }
 * {
   margin: 0px;
   padding: 0px;
   box-sizing: border-box;
+  overflow: hidden;
 }
